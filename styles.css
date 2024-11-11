@@ -1,0 +1,67 @@
+
+  .main {
+    
+  }
+
+.container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    align-content: center;
+    height: 100vh;
+    
+    
+  
+    background-color: beige;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    
+    
+}
+.card {
+    background-color: bisque;
+}
+
+body {
+    background-color: darkgray;
+}
+
+
+img {
+    border-radius: 20px;
+    height: 300px;
+  }
+
+.image-qr-code {
+    display: block;
+    align-content: center;
+    align-items: center;
+    padding-block: 50px;
+
+}
+
+.body-text {
+    display: block;
+    max-width: 300px;
+   
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-block: 50px;
+}
+
+.first-text {
+    font-weight: 600;
+    font-size: 1rem;
+    padding-bottom: 50px;
+    
+}
+
+.second-text{
+    font-weight: 100;
+    font-size: 0.8rem;
+
+
+}
+
